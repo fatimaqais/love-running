@@ -249,6 +249,13 @@ footer {
     width: 100%;
 }
 
+/* Form */
+
+.form-section {
+    clear: left;
+    background: url('')
+}
+
 /* media queries */ 
 
 /*  for larger to medium screens size from 1200px wide and down */
